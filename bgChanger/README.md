@@ -1,8 +1,18 @@
-# React + Vite
+# BgChanger - Background Color Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BgChanger is a simple React + Vite project that allows users to change the background color dynamically. It uses Tailwind CSS for styling, providing a visually appealing interface with color options.
 
-Currently, two official plugins are available:
+## Concepts Used
+- **React**: The project is built using the React library, which enables the creation of dynamic and interactive user interfaces.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Vite**: Vite is used as the build tool for the project, offering a fast development server and efficient build processes.
+
+- **Tailwind CSS**: The project utilizes Tailwind CSS for styling, enabling rapid and consistent styling through utility classes.
+
+- **State Management with useState**: The `useState` hook from React is used to manage the state of the background color dynamically.
+
+## Usage
+Click on the color buttons to change the background color dynamically.
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
