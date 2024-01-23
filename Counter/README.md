@@ -13,9 +13,7 @@ The project consists of a single component, `App.js`, responsible for rendering 
 
 ```plaintext
 /src
-  /components
     - App.js
-  /styles
     - App.css
 index.html
 package.json
